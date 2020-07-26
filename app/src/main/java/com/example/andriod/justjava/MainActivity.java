@@ -24,7 +24,8 @@ public class MainActivity extends AppCompatActivity {
      * This method is called when the order button is clicked.
      */
     public void submitOrder(View view) {
-        displayPrice(quantity * 5);
+        String msg = "You owe $" + quantity * 5;
+
     }
 
 
