@@ -1,6 +1,6 @@
 # Andriod User Interaction (Coffee shop App)
 
-> A application focused on building user interfaces in android development
+> A application focused on building user interfaces with user interaction in android development
 
 ![screenshot](./app/src/main/res/drawable/icon.png)
 
